@@ -1,0 +1,21 @@
+{
+  "name": "log-server",
+  "description": "log server",
+  "main": "index.js",
+  "authors": [
+    "Ani"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io-client": "https://github.com/socketio/socket.io-client.git#~1.4.5"
+  }
+}
